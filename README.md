@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neevea Manoj</h1>
+<p align="center"> <img align="centre" alt="coding" width=400 src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neevea8880&label=Profile%20views&color=0e75b6&style=flat" alt="neevea8880" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neevea8880" alt="neevea8880" /></a> </p>
